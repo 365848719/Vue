@@ -4,7 +4,7 @@
     <p>
       {{myMsg}}  
     </p>
-    <p>测试 demo</p>
+    <h2>你好啊！</h2>
   </div>
 </template>
 
