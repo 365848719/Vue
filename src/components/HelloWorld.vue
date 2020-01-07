@@ -4,6 +4,7 @@
     <p>
       {{myMsg}}  
     </p>
+    <p>测试 demo</p>
   </div>
 </template>
 
